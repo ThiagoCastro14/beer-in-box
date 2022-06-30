@@ -1,0 +1,69 @@
+@charset "UTF-8";
+.classeTextoAmarelo {color:yellow;}
+.tarjaSuperior {
+    background: #F7D358;
+    height: 80px;  
+}
+.tarjaSuperior2 {
+    margin-top: -20px;
+    background: #F7D358;
+    height: 60px;		 
+}
+.boxLogin {
+width: 150px;
+height: 200px;
+background: #F7D358;
+color: #FFBF00;
+padding: 42px;
+border-radius: 10px;
+}
+.btn{
+    font-family: arial;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 10px;
+    cursor: pointer;
+
+}
+.btn-black{
+background:black;
+color: #ffffff;
+box-shadow: 5px 5px 5px #A9A9A9;
+border-radius: 5px;
+}
+.btn-gray{
+	margin: left;
+	width: 100px;
+	height: 20px;
+	background:gray;
+	color: #ffffff;
+	box-shadow: 5px 5px 5px #A9A9A9;
+	border-radius: 5px;	
+}
+.btn-orange{
+	margin: left;
+	width: 100px;
+	height: 20px;
+	background:orange;
+	color: #ffffff;
+	box-shadow: 5px 5px 5px #A9A9A9;
+	border-radius: 5px;	
+}
+.btn-red{
+	margin: left;
+	width: 100px;
+	height: 20px;
+	background:red;
+	color: #ffffff;
+	box-shadow: 5px 5px 5px #A9A9A9;
+	border-radius: 5px;
+}
+ul#menu{
+	margin-top: -30px;
+	margin: left;
+	width: 130px;
+	height: 400px;
+	background: #F7D358;
+	color: #FFBF00;
+	padding: 42px;	
+}
